@@ -7,8 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SkillsComponent implements OnInit {
   skillsSection = {
-    title: "What I & We(My Team) do💁‍♂️",
-    subTitle: "CRAZY FULL STACK DEVELOPERs WHO WANTS TO EXPLORE EVERY TECH STACK",
+    title: "What I do💁‍♂️?",
+    subTitle: "CRAZY FULL STACK DEVELOPER AND ADAPTABLE TO ANY TECH STACK",
     skills: [
       "⚡ Developing application backends using Django, Flask, Spring Boot, and Node.js.",
       "⚡ Proficient in building Progressive Web Applications (PWAs) using both normal and SPA stacks.",
